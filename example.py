@@ -1,6 +1,5 @@
 import ilqr
 import casadi as cs
-import rospy
 import numpy as np
 from matplotlib import pyplot as plt
 
